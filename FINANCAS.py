@@ -1,5 +1,6 @@
 import streamlit as st
 import pandas as pd
+import openpyxl 
 from openpyxl import load_workbook
 import tela1.tela1 as tela1
 
